@@ -7,8 +7,7 @@ layout: page
 
 Welcome to the first release of this little web app.
 		
-You can find out more about the background to it by clicking 'About this site'. Soon.
-		
+You can find out more about the background to it by clicking 'About this site'. Soon.		
 
 <div class="container">
 

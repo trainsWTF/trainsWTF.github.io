@@ -99,6 +99,8 @@ The following fields are mandatory by the setrains site:
     	</div>
     	<div class="row">
        		<div class="col-md-3">
+       			Click submit to populate the comment form.
+       			Note you need to click 'Send Message' on Southeastern's site to submit to them
     		</div>
         	<div class="col-md-9">		
     			<input type="submit" class="demo-button" value="Submit" />
@@ -196,7 +198,9 @@ The following fields are mandatory by the setrains site:
     			<input type="text" name="telephone" id="telephone" class="stored" value="" />
 			</div>
     	</div>    
-     		  	
+    	<div class="row">
+     		Email me a copy of my feedback<input type="checkbox" name="user_copy" value="user_copy" checked>
+     	</div>	  	
 	</div>
 </form>
     <div class="col-md-3">
