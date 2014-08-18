@@ -1,11 +1,14 @@
 ---
 layout: page
 title: trainsWTF
-tagline: an easier way to complain
+tagline: (beta) an easier way to complain
 ---
 {% include JB/setup %}
 
-trains.WTF
+Welcome to the first release of this little web app.
+		
+You can find out more about the background to it by clicking 'About this site'. Soon.
+		
 
 <div class="container">
 
