@@ -1,11 +1,12 @@
 ---
 layout: page
-title: southeastern
-tagline: (beta) send your feedback below
-
 ---
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 {% include JB/setup %}
+
+![Logo]({{ site.url }}/logo.jpg)
+
+Southeastern passengers - send your feedback below
 
 Fill in your details below. They are stored locally - more info here
 The following fields are mandatory - aren't you glad they've been stored?

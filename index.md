@@ -1,9 +1,9 @@
 ---
 layout: page
-title: trainsWTF
-tagline: (beta) an easier way to complain
 ---
 {% include JB/setup %}
+![Logo]({{ site.url }}/logo.jpg)
+
 
 Welcome to the first release of this little web app.
 		
