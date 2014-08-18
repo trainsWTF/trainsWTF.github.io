@@ -166,6 +166,7 @@ $(document).ready(function () {
         //useful fields (journey related):
         if (localStorage.depstation) {
         	$("#depstation").find("option[value=" + localStorage.depstation + "]").attr("selected", true);
+        	$("#depstation").val("Catford");
             
         }       
         
