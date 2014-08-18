@@ -6,6 +6,8 @@ layout: page
 
 ![Logo]({{ site.url }}/logo.jpg)
 
+(mainly optimised for mobile...for now)
+
 Southeastern passengers - send your feedback below
 
 Fill in your details below.
