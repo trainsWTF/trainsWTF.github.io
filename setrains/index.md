@@ -17,7 +17,7 @@ They are stored locally on your device, so you only ever have to enter them once
 The following fields are mandatory by the setrains site:
 
 <div class="container">
-<form id="localStorageTest" method="post" action="http://www.southeasternrailway.co.uk/contact/contact-us-form">
+<form id="setrains-form" method="post" action="http://www.southeasternrailway.co.uk/contact/contact-us-form">
 
 
 	<div class="col-md-9">
@@ -286,6 +286,15 @@ $('.stored').change(function () {
 $('#localStorageTest').submit(function() {
 	//localStorage.clear();
 });
+
+
+jQuery(document).ready(function($) {
+// Track submission events.
+  $('#setrains-form').submit(function() {
+        _gaq.push(['_trackEvent', 'submit', 'setrains_submit']);
+  });
+});
+
 </script>
 <script type="text/javascript">
 (function( win ){
