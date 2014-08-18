@@ -88,7 +88,7 @@ The following fields are mandatory - aren't you glad they've been stored?
     			<label>Message:</label>
     		</div>
         	<div class="col-md-9">		
-   		 		<textarea name="yourcomments" id="yourcomments" class="stored"></textarea>
+   		 		<textarea name="yourcomments" id="yourcomments" class="stored" rows="10" cols="60"></textarea>
 			</div>
     	</div>
     	<div class="row">
