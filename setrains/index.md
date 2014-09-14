@@ -39,10 +39,6 @@ This is the Customer Comments page
 
 <b>Mandatory fields:</b>
 
-Select
-DELAY REPAY
-COMMENT
-(these will then rewrite form data ready for the submit, and also restyle the page for the correct data, and pre-pop with today's date)
 
 <div class="container">
 <form id="setrains-form" method="post" action="https://www.southeasternrailway.co.uk/mobile/contact-us/feedback-form">

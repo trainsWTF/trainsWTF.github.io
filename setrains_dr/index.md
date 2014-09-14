@@ -31,7 +31,7 @@ This is the Delay Repay page
 
 [Click for: Customer Comments]({{ site.url }}/setrains)
 
-<b>Mandatory fields for Delay Repay:</b>
+<b>Journey details:</b>
 
 
 <div class="container">
@@ -656,9 +656,11 @@ This is the Delay Repay page
     		<input type="submit" class="demo-button" formaction="https://www.southeasternrailway.co.uk/mobile/delay-repay/" value="Go to Delay Repay form" />
 
     	</div>
+
+ 
   	
     	<div class="row">
-    		These fields are required for Delay Repay - once you fill this in once your browser will remember for your next Delay Repay claim or Customer Service contact
+    		<b>These fields are required for Delay Repay - once you fill this in once your browser will remember for your next Delay Repay claim or Customer Service contact</b>
     	</div>
     	<div class="row">
        		<div class="col-md-3">
