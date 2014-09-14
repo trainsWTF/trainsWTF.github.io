@@ -2,7 +2,8 @@
 layout: page
 ---
 {% include JB/setup %}
-![Logo]({{ site.url }}/logo.jpg)
+<img src="{{ site.url }}/logo.jpg" alt="Logo" width="300"/>
+
 
 Southeastern: 
 

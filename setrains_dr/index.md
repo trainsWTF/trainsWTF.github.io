@@ -19,7 +19,7 @@ layout: page
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 {% include JB/setup %}
 
-![Logo]({{ site.url }}/logo.jpg)
+<img src="{{ site.url }}/logo.jpg" alt="Logo" width="300"/>
 
 Optimised for mobile - since that's where you're most likely to use it.
 
