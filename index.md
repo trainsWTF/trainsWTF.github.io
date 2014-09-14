@@ -4,7 +4,11 @@ layout: page
 {% include JB/setup %}
 ![Logo]({{ site.url }}/logo.jpg)
 
-Southeastern: [Customer Comments]({{ site.url }}/setrains) - [Delay Repay]({{ site.url }}/setrains_dr)
+Southeastern: 
+
+[Customer Comments]({{ site.url }}/setrains)
+
+[Delay Repay]({{ site.url }}/setrains_dr)
 
 <div class="container">
 
