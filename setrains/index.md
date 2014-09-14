@@ -27,13 +27,9 @@ layout: page
 
 <img src="{{ site.url }}/logo.jpg" alt="Logo" width="300"/>
 
-Optimised for mobile - since that's where you're most likely to use it.
+[Usage instructions & site info]({{ site.url }}/about.html)
 
-Fill in your details below, once you hit 'submit' you'll be sent to the Southeastern site with the same details pre-populated -  you just need to hit 'submit' again on Southeastern's site.
-
-BUT as you type details, the ones that are useful for future submissions are stored locally on your device, to pre-populate this form next time you're here... making it easier to comment in the future
-
-This is the Customer Comments page
+Southeastern - Customer comments
 
 [Click for: Delay Repay]({{ site.url }}/setrains_dr)
 
