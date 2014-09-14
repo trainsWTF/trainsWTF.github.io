@@ -674,7 +674,14 @@ Southeastern - Delay Repay
         		</select>
     		</div>
     	</div>
-
+    	<div class="row">
+       		<div class="col-md-3">
+    			<label>First name:</label>
+         	</div>
+        	<div class="col-md-9">
+    			<input type="text" name="first_name" id="first_name" class="stored" value="" />
+    		</div>
+    	</div>
     	<div class="row">
        		<div class="col-md-3">
     			<label>Surname:</label>
@@ -692,14 +699,7 @@ Southeastern - Delay Repay
 			</div>
     	</div>
 
-    	<div class="row">
-       		<div class="col-md-3">
-    			<label>First name:</label>
-         	</div>
-        	<div class="col-md-9">
-    			<input type="text" name="first_name" id="first_name" class="stored" value="" />
-    		</div>
-    	</div>
+
     	<div class="row">
        		<div class="col-md-3">
     			<label>Address Line 1:</label>
@@ -727,14 +727,7 @@ Southeastern - Delay Repay
 			</div>
     	</div>      
 	    	
-    	<div class="row">
-       		<div class="col-md-3">
-    			<label>Postcode:</label>
-    		</div>
-        	<div class="col-md-9">	
-    			<input type="text" name="post_code" id="post_code" class="stored" value="" />
-			</div>
-    	</div>   
+ 
     	  	
     	<div class="row">
        		<div class="col-md-3">
@@ -744,7 +737,14 @@ Southeastern - Delay Repay
     			<input type="text" name="county" id="county" class="stored" value="" />
 			</div>
     	</div>   
-
+    	<div class="row">
+       		<div class="col-md-3">
+    			<label>Postcode:</label>
+    		</div>
+        	<div class="col-md-9">	
+    			<input type="text" name="post_code" id="post_code" class="stored" value="" />
+			</div>
+    	</div>  
     	<div class="row">
        		<div class="col-md-3">
     			<label>Telephone:</label>
