@@ -616,34 +616,7 @@ Southeastern - Delay Repay
                 </select>
         	</div>
         </div>   
-    	<div class="row">
-       		<div class="col-md-3">
-    			<label>Ticket type:</label>
-    		</div>
-        	<div class="col-md-9">	
-				<select name="ticket_type" id="ticket_type" class="stored">
-                    <option selected="selected" value="">Select ticket type</option>
-                    <option value="single journey">Single Journey</option>
-                    <option value="return">Return Journey</option>
-                    <option value="7 day season">7 Day Season</option>
-                    <option value="monthly season">Monthly Season</option>
-                    <option value="quarterly season">Quarterly Season</option>
-                    <option value="annual season">Annual Season</option>
-                    <option value="oyster payg">Oyster PAYG</option>
-                </select>
-			</div>
-		</div>
-    	<div class="row">
-       		<div class="col-md-3">
-    			<label>Ticket cost:</label>
-    		</div>
-        	<div class="col-md-9">			
-                &pound;
-                <input type="text" value="" name="ticket_cost_pound" style="width:45px;" maxlength="4" id="ticket_cost_pound" class="stored">
-                .
-                <input type="text" value="" name="ticket_cost_pence" style="width:25px;" maxlength="2" id="ticket_cost_pence" class="stored">
-            </div>
-		</div>
+
 		<div class="row">
 				Submit your claim to Southeastern. 
        			Check your details on their site, attach a photo of your ticket, then hit 'Send Message'
@@ -753,6 +726,34 @@ Southeastern - Delay Repay
     			<input type="text" name="telephone" id="telephone" class="stored" value="" />
 			</div>
     	</div>    	
+    	<div class="row">
+       		<div class="col-md-3">
+    			<label>Ticket type:</label>
+    		</div>
+        	<div class="col-md-9">	
+				<select name="ticket_type" id="ticket_type" class="stored">
+                    <option selected="selected" value="">Select ticket type</option>
+                    <option value="single journey">Single Journey</option>
+                    <option value="return">Return Journey</option>
+                    <option value="7 day season">7 Day Season</option>
+                    <option value="monthly season">Monthly Season</option>
+                    <option value="quarterly season">Quarterly Season</option>
+                    <option value="annual season">Annual Season</option>
+                    <option value="oyster payg">Oyster PAYG</option>
+                </select>
+			</div>
+		</div>
+    	<div class="row">
+       		<div class="col-md-3">
+    			<label>Ticket cost:</label>
+    		</div>
+        	<div class="col-md-9">			
+                &pound;
+                <input type="text" value="" name="ticket_cost_pound" style="width:55px;" maxlength="4" id="ticket_cost_pound" class="stored">
+                .
+                <input type="text" value="" name="ticket_cost_pence" style="width:35px;" maxlength="2" id="ticket_cost_pence" class="stored">
+            </div>
+		</div>    	
     	<div class="row">	
     		<input type="submit" class="demo-button" formaction="https://www.southeasternrailway.co.uk/mobile/delay-repay/" value="Go to Delay Repay form" />
 
